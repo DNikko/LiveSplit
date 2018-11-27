@@ -4852,4 +4852,14 @@
     <Type>Script</Type>
     <Description>Load removal (By Mr_Brood)</Description>
   </AutoSplitter>
+<AutoSplitter>
+    <Games>
+      <Game>Little Nightmares</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/DNikko/littlenightmares-lr-as/master/littlenightmares.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitter/Load Removal (By Nikko)</Description>
+  </AutoSplitter>
 </AutoSplitters>
